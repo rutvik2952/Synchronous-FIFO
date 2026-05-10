@@ -1,0 +1,26 @@
+Synchronous_FiFo
+├── COMMON
+│   ├── synchronous_fifo_common.sv
+│   └── synchronous_fifo_commmon_package.sv
+├── ENV
+│   ├── synchronous_fifo_transaction.sv
+│   ├── synchronous_fifo_generator.sv
+│   ├── synchronous_fifo_driver.sv
+│   ├── synchronous_fifo_monitor.sv
+│   ├── synchronous_fifo_predictor.sv
+│   ├── synchronous_fifo_coverage.sv
+│   ├── synchronous_fifo_scoreboard.sv
+│   ├── synchronous_fifo_interface.sv 
+│   ├── synchronous_fifo_config.sv
+│   └── synchronous_fifo_package.sv 
+├── TEST
+│   ├── synchronous_fifo_test.sv
+│   └── regression_test.excel
+├── Script
+│   └── header_creation.sh  
+├── TOP
+│   └── synchronous_fifo_top.sv
+├── RTL
+│   └── synchronous_fifo_rtl.sv
+└── SIM
+    └── makefile
