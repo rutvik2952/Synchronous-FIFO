@@ -7,7 +7,7 @@
 # ------------------------------
 # Set the project folder path
 # ------------------------------
-PROJECT_DIR="/home/rutvik/RUTVIK_ELOB/AXI/AXI_VIP"   # Change this to your project folder
+PROJECT_DIR="/home/rutvik/Rutvik_Project/system_Verilog/Synchronus_FiFo/Synchronous-FIFO"   # Change this to your project folder
 
 # ------------------------------
 # Set PROJECT name from argument
